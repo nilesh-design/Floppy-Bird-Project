@@ -23,20 +23,20 @@ The game is lightweight, responsive, and includes sound effects for scoring and 
 
 ## 📂 Project Structure
 
-FlappyBirdGame/
-│
-├── index.html # Main HTML file
-├── style.css # Game styling
-├── script.js # Game logic
-│
-├── images/ # Game assets
-│ ├── Bird.png
-│ ├── Bird-2.png
-│ ├── background-img.png
-│ └── favicon.ico
-│
-├── sounds effect/ # Audio assets
-│ ├── point.mp3
-│ └── die.mp3
-│
-└── README.md
+FlappyBirdGame/ <br>
+│ <br> 
+├── index.html # Main HTML file <br>
+├── style.css # Game styling <br>
+├── script.js # Game logic <br>
+│ <br>
+├── images/ # Game assets <br>
+│ ├── Bird.png <br>
+│ ├── Bird-2.png <br>
+│ ├── background-img.png <br>
+│ └── favicon.ico <br>
+│ <br>
+├── sounds effect/ # Audio assets <br>
+│ ├── point.mp3 <br>
+│ └── die.mp3 <br>
+│ <br>
+└── README.md <br>
